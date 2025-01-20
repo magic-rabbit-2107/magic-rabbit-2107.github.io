@@ -1,0 +1,1069 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.9" tiledversion="1.9.2" orientation="orthogonal" renderorder="right-down" width="16" height="15" tilewidth="8" tileheight="8" infinite="0" nextlayerid="14" nextobjectid="98">
+ <editorsettings>
+  <export format="json"/>
+ </editorsettings>
+ <tileset firstgid="1" name="Decorations" tilewidth="8" tileheight="8" tilecount="180" columns="18">
+  <image source="../../../../../Downloads/Plumbers-Paradise-8x8/Decorations.png" width="144" height="80"/>
+ </tileset>
+ <tileset firstgid="181" name="Ground-and-Platforms" tilewidth="8" tileheight="8" tilecount="400" columns="16">
+  <image source="../../../../../Downloads/Plumbers-Paradise-8x8/Ground-and-Platforms.png" width="128" height="200"/>
+  <tile id="1">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="2">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="3">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="6">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="7">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="8">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="9">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="17">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="18">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="19">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="22">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="23">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="24">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="25">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="38">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="39">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="40">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="41">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="54">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="55">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="56">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="57">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="70">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="71">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="72">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="73">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="86">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="87">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="88">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="89">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="102">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="103">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="104">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="105">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="118">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="119">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="120">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="121">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="134">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="135">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="136">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="137">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="150">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="151">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="152">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="153">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="166">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="167">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="168">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="169">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="182">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="183">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="184">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="185">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+ </tileset>
+ <tileset firstgid="581" name="Interactable" tilewidth="8" tileheight="8" tilecount="420" columns="15">
+  <image source="../../../../../Downloads/Plumbers-Paradise-8x8/Interactable.png" width="120" height="224"/>
+  <tile id="8">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="9">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="10">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="11">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="12">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="13">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="23">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="24">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="25">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="26">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="27">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="28">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="38">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="39">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="40">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="41">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="42">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="43">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="53">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="54">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="55">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="56">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="57">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="58">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="68">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="69">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="70">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="71">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="72">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="73">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="83">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="84">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="85">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="86">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="87">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="88">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="98">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="99">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="100">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="101">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="102">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="103">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="113">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="114">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="115">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="116">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="117">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="118">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="128">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="129">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="130">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="131">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="132">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="133">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="143">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="144">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="145">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="146">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="147">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="148">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="158">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="159">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="160">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="161">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="162">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="163">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="173">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="174">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="175">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="176">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="177">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="178">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="188">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="189">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="190">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="191">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="192">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="193">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="203">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="204">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="205">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="206">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="207">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="208">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="218">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="219">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="220">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="221">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="222">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="223">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="233">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="234">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="235">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="236">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="237">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="238">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="248">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="249">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="250">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="251">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="252">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="253">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="263">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="264">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="265">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="266">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="267">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+  <tile id="268">
+   <properties>
+    <property name="collision" type="bool" value="true"/>
+   </properties>
+  </tile>
+ </tileset>
+ <tileset firstgid="1001" name="Parallax" tilewidth="8" tileheight="8" tilecount="2080" columns="65">
+  <image source="../../../../../Downloads/Plumbers-Paradise-8x8/Parallax.png" width="520" height="256"/>
+ </tileset>
+ <layer id="1" name="Ground" width="16" height="15">
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+333,333,333,333,333,333,333,333,333,333,333,333,333,333,333,333,
+333,333,333,333,333,333,333,333,333,333,333,333,333,333,333,333
+</data>
+ </layer>
+ <layer id="8" name="Decorations" width="16" height="15">
+  <data encoding="csv">
+0,2359,2360,2361,2362,2363,2364,2359,2360,2361,2359,2360,2361,2362,2363,2364,
+0,2424,2425,2426,2427,2428,2429,2424,2425,2426,2424,2425,2426,2427,2428,2429,
+0,2359,2360,2361,2362,2363,2359,2360,2361,2362,2359,2360,2361,2362,2363,2364,
+0,2424,2425,2426,2427,2428,2424,2425,2426,2427,2424,2425,2426,2427,2428,2429,
+0,2359,2360,2361,2362,2359,2360,2361,2359,2359,2360,2361,2362,2363,2364,0,
+0,2424,2425,2426,2427,2424,2425,2426,2424,2424,2425,2426,2427,2428,2429,0,
+0,2359,2360,2361,2359,2360,2361,2362,2363,2359,2360,2361,2362,2363,2364,0,
+0,2424,2425,2426,2424,2425,2426,2427,2428,2359,2360,2361,2362,2363,2364,0,
+0,2359,2360,2361,2362,2363,2364,2361,2362,2363,2364,2361,2362,2363,2364,0,
+0,2359,2360,2361,2359,2360,2359,2360,2361,2359,2360,2361,2362,2363,2364,0,
+0,2424,2425,2426,2424,2425,2424,2425,2426,2424,2425,2426,2427,2428,2429,0,
+0,2359,2360,2361,2362,2363,2364,0,0,2359,2359,2360,2361,2362,2363,2364,
+0,2424,2425,2426,2427,2428,2429,0,0,2424,2424,2425,2426,2427,2428,2429,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+</data>
+ </layer>
+ <layer id="7" name="Steps" width="16" height="15">
+  <data encoding="csv">
+187,0,0,0,0,0,0,0,0,0,0,0,0,0,0,187,
+187,0,0,0,0,0,0,0,0,0,0,0,0,0,0,187,
+187,0,0,0,0,0,0,0,0,0,0,0,0,0,0,187,
+187,0,0,0,0,0,0,0,0,0,0,0,0,0,0,187,
+187,0,0,0,0,0,0,0,0,0,0,0,0,0,0,187,
+187,0,0,0,0,0,0,0,0,0,0,0,0,0,0,187,
+187,0,0,0,0,0,0,0,0,0,0,0,0,0,0,187,
+187,0,0,0,0,0,0,0,0,0,0,0,0,0,0,187,
+187,0,0,0,0,0,0,0,0,0,0,0,0,0,0,187,
+187,0,0,0,0,0,0,0,0,0,0,0,0,0,0,187,
+187,0,0,0,0,0,0,0,0,0,0,0,0,0,0,187,
+187,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+187,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+</data>
+ </layer>
+ <objectgroup id="4" name="Player">
+  <object id="41" name="playerSpawn1" x="19" y="28">
+   <properties>
+    <property name="trackPlayer" type="bool" value="false"/>
+   </properties>
+   <point/>
+  </object>
+ </objectgroup>
+ <objectgroup id="13" name="Blocks">
+  <object id="49" name="regularBlock" x="16" y="24" width="8" height="8">
+   <properties>
+    <property name="properties" value="{&quot;type&quot;:&quot;&quot;}"/>
+   </properties>
+  </object>
+  <object id="50" name="regularBlock" x="16" y="32" width="8" height="8">
+   <properties>
+    <property name="properties" value="{&quot;type&quot;:&quot;&quot;}"/>
+   </properties>
+  </object>
+  <object id="51" name="regularBlock" x="16" y="40" width="8" height="8">
+   <properties>
+    <property name="properties" value="{&quot;type&quot;:&quot;&quot;}"/>
+   </properties>
+  </object>
+  <object id="52" name="regularBlock" x="16" y="48" width="8" height="8">
+   <properties>
+    <property name="properties" value="{&quot;type&quot;:&quot;&quot;}"/>
+   </properties>
+  </object>
+  <object id="53" name="regularBlock" x="16" y="56" width="8" height="8">
+   <properties>
+    <property name="properties" value="{&quot;type&quot;:&quot;&quot;}"/>
+   </properties>
+  </object>
+  <object id="54" name="regularBlock" x="24" y="63.99" width="8" height="8">
+   <properties>
+    <property name="properties" value="{&quot;type&quot;:&quot;&quot;}"/>
+   </properties>
+  </object>
+  <object id="55" name="regularBlock" x="32" y="55.9" width="8" height="8">
+   <properties>
+    <property name="properties" value="{&quot;type&quot;:&quot;&quot;}"/>
+   </properties>
+  </object>
+  <object id="56" name="regularBlock" x="40" y="48" width="8" height="8">
+   <properties>
+    <property name="properties" value="{&quot;type&quot;:&quot;&quot;}"/>
+   </properties>
+  </object>
+  <object id="58" name="regularBlock" x="48" y="40" width="8" height="8">
+   <properties>
+    <property name="properties" value="{&quot;type&quot;:&quot;&quot;}"/>
+   </properties>
+  </object>
+  <object id="60" name="regularBlock" x="48" y="32" width="8" height="8">
+   <properties>
+    <property name="properties" value="{&quot;type&quot;:&quot;&quot;}"/>
+   </properties>
+  </object>
+  <object id="61" name="regularBlock" x="48" y="24" width="8" height="8">
+   <properties>
+    <property name="properties" value="{&quot;type&quot;:&quot;&quot;}"/>
+   </properties>
+  </object>
+  <object id="62" name="regularBlock" x="56" y="23.96" width="8" height="8">
+   <properties>
+    <property name="properties" value="{&quot;type&quot;:&quot;&quot;}"/>
+   </properties>
+  </object>
+  <object id="64" name="regularBlock" x="56" y="32" width="8" height="8">
+   <properties>
+    <property name="properties" value="{&quot;type&quot;:&quot;&quot;}"/>
+   </properties>
+  </object>
+  <object id="66" name="regularBlock" x="56" y="40" width="8" height="8">
+   <properties>
+    <property name="properties" value="{&quot;type&quot;:&quot;&quot;}"/>
+   </properties>
+  </object>
+  <object id="68" name="regularBlock" x="64" y="24" width="8" height="8">
+   <properties>
+    <property name="properties" value="{&quot;type&quot;:&quot;&quot;}"/>
+   </properties>
+  </object>
+  <object id="69" name="regularBlock" x="64" y="32" width="8" height="8">
+   <properties>
+    <property name="properties" value="{&quot;type&quot;:&quot;&quot;}"/>
+   </properties>
+  </object>
+  <object id="70" name="regularBlock" x="64" y="40" width="8" height="8">
+   <properties>
+    <property name="properties" value="{&quot;type&quot;:&quot;&quot;}"/>
+   </properties>
+  </object>
+  <object id="72" name="regularBlock" x="72" y="48" width="8" height="8">
+   <properties>
+    <property name="properties" value="{&quot;type&quot;:&quot;&quot;}"/>
+   </properties>
+  </object>
+  <object id="73" name="regularBlock" x="80" y="56" width="8" height="8">
+   <properties>
+    <property name="properties" value="{&quot;type&quot;:&quot;&quot;}"/>
+   </properties>
+  </object>
+  <object id="79" name="regularBlock" x="96" y="24" width="8" height="8">
+   <properties>
+    <property name="properties" value="{&quot;type&quot;:&quot;&quot;}"/>
+   </properties>
+  </object>
+  <object id="80" name="regularBlock" x="96" y="48" width="8" height="8">
+   <properties>
+    <property name="properties" value="{&quot;type&quot;:&quot;&quot;}"/>
+   </properties>
+  </object>
+  <object id="81" name="regularBlock" x="95.8" y="56" width="8" height="8">
+   <properties>
+    <property name="properties" value="{&quot;type&quot;:&quot;&quot;}"/>
+   </properties>
+  </object>
+  <object id="83" name="regularBlock" x="88" y="63.95" width="8" height="8">
+   <properties>
+    <property name="properties" value="{&quot;type&quot;:&quot;&quot;}"/>
+   </properties>
+  </object>
+  <object id="84" name="regularBlock" x="24" y="24" width="8" height="8">
+   <properties>
+    <property name="properties" value="{&quot;type&quot;:&quot;&quot;}"/>
+   </properties>
+  </object>
+  <object id="85" name="regularBlock" x="24" y="32" width="8" height="8">
+   <properties>
+    <property name="properties" value="{&quot;type&quot;:&quot;&quot;}"/>
+   </properties>
+  </object>
+  <object id="87" name="regularBlock" x="32" y="24" width="8" height="8">
+   <properties>
+    <property name="properties" value="{&quot;type&quot;:&quot;&quot;}"/>
+   </properties>
+  </object>
+  <object id="95" name="regularBlock" x="95.89" y="31.99" width="8" height="8">
+   <properties>
+    <property name="properties" value="{&quot;type&quot;:&quot;&quot;}"/>
+   </properties>
+  </object>
+  <object id="97" name="regularBlock" x="95.77" y="40.04" width="8" height="8">
+   <properties>
+    <property name="properties" value="{&quot;type&quot;:&quot;&quot;}"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup id="11" name="SubLevel">
+  <object id="43" name="PipeEntrance" x="112" y="88" width="8" height="16">
+   <properties>
+    <property name="direction" value="right"/>
+    <property name="levelData" value="{&quot;world&quot;:&quot;1&quot;,&quot;level&quot;:&quot;1&quot;,&quot;subLevel&quot;:&quot;0&quot;,&quot;spawnPoint&quot;:&quot;2&quot;}"/>
+    <property name="trackPlayer" type="bool" value="true"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup id="12" name="Coins">
+  <object id="88" x="40.613" y="16.092" width="39.5913" height="7.66284"/>
+  <object id="89" x="61.9413" y="5.61941" height="0.127714"/>
+  <object id="90" x="48.2759" y="8.3014" width="24.1379" height="7.53512"/>
+  <object id="92" x="87.8672" y="45.64" width="7.79055" height="7.79055"/>
+ </objectgroup>
+ <layer id="2" name="Pipes" width="16" height="15">
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,710,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,725,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+</data>
+ </layer>
+</map>

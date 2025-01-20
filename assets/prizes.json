@@ -1,0 +1,212 @@
+{"frames": [
+
+{
+	"filename": "coin_01.png",
+	"frame": {"x":61,"y":111,"w":6,"h":7},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":6,"h":7},
+	"sourceSize": {"w":6,"h":7}
+},
+{
+	"filename": "coin_02.png",
+	"frame": {"x":69,"y":111,"w":4,"h":7},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":4,"h":7},
+	"sourceSize": {"w":4,"h":7}
+},
+{
+	"filename": "coin_03.png",
+	"frame": {"x":81,"y":1,"w":2,"h":7},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":2,"h":7},
+	"sourceSize": {"w":2,"h":7}
+},
+{
+	"filename": "coin_04.png",
+	"frame": {"x":75,"y":115,"w":4,"h":7},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":4,"h":7},
+	"sourceSize": {"w":4,"h":7}
+},
+{
+	"filename": "fireflower_grow_1.png",
+	"frame": {"x":31,"y":118,"w":8,"h":2},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":8,"h":2},
+	"sourceSize": {"w":8,"h":8}
+},
+{
+	"filename": "fireflower_grow_2.png",
+	"frame": {"x":21,"y":118,"w":8,"h":3},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":5,"w":8,"h":3},
+	"sourceSize": {"w":8,"h":8}
+},
+{
+	"filename": "fireflower_grow_3.png",
+	"frame": {"x":36,"y":75,"w":8,"h":4},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":4,"w":8,"h":4},
+	"sourceSize": {"w":8,"h":8}
+},
+{
+	"filename": "fireflower_grow_4.png",
+	"frame": {"x":11,"y":118,"w":8,"h":5},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":3,"w":8,"h":5},
+	"sourceSize": {"w":8,"h":8}
+},
+{
+	"filename": "fireflower_grow_5.png",
+	"frame": {"x":1,"y":118,"w":8,"h":6},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":8,"h":6},
+	"sourceSize": {"w":8,"h":8}
+},
+{
+	"filename": "fireflower_grow_6.png",
+	"frame": {"x":76,"y":75,"w":8,"h":8},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":8,"h":8},
+	"sourceSize": {"w":8,"h":8}
+},
+{
+	"filename": "fireflower_grow_7.png",
+	"frame": {"x":76,"y":85,"w":8,"h":8},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":8,"h":8},
+	"sourceSize": {"w":8,"h":8}
+},
+{
+	"filename": "fireflower_powerup.png",
+	"frame": {"x":76,"y":85,"w":8,"h":8},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":8,"h":8},
+	"sourceSize": {"w":8,"h":8}
+},
+{
+	"filename": "goal_prize_number_0.png",
+	"frame": {"x":1,"y":44,"w":23,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":23,"h":35},
+	"sourceSize": {"w":28,"h":35}
+},
+{
+	"filename": "goal_prize_number_1.png",
+	"frame": {"x":26,"y":44,"w":8,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":0,"w":8,"h":35},
+	"sourceSize": {"w":28,"h":35}
+},
+{
+	"filename": "goal_prize_number_2.png",
+	"frame": {"x":31,"y":1,"w":23,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":23,"h":35},
+	"sourceSize": {"w":28,"h":35}
+},
+{
+	"filename": "goal_prize_number_3.png",
+	"frame": {"x":1,"y":81,"w":23,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":23,"h":35},
+	"sourceSize": {"w":28,"h":35}
+},
+{
+	"filename": "goal_prize_number_4.png",
+	"frame": {"x":1,"y":1,"w":28,"h":41},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":41},
+	"sourceSize": {"w":28,"h":41}
+},
+{
+	"filename": "goal_prize_number_5.png",
+	"frame": {"x":56,"y":1,"w":23,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":23,"h":35},
+	"sourceSize": {"w":28,"h":35}
+},
+{
+	"filename": "goal_prize_number_6.png",
+	"frame": {"x":36,"y":38,"w":23,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":23,"h":35},
+	"sourceSize": {"w":28,"h":35}
+},
+{
+	"filename": "goal_prize_number_7.png",
+	"frame": {"x":51,"y":75,"w":23,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":23,"h":34},
+	"sourceSize": {"w":28,"h":34}
+},
+{
+	"filename": "goal_prize_number_8.png",
+	"frame": {"x":61,"y":38,"w":23,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":23,"h":35},
+	"sourceSize": {"w":28,"h":35}
+},
+{
+	"filename": "goal_prize_number_9.png",
+	"frame": {"x":26,"y":81,"w":23,"h":35},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":23,"h":35},
+	"sourceSize": {"w":28,"h":35}
+},
+{
+	"filename": "mushroom_1up.png",
+	"frame": {"x":76,"y":95,"w":8,"h":8},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":8,"h":8},
+	"sourceSize": {"w":8,"h":8}
+},
+{
+	"filename": "mushroom_powerup.png",
+	"frame": {"x":76,"y":105,"w":8,"h":8},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":8,"h":8},
+	"sourceSize": {"w":8,"h":8}
+},
+{
+	"filename": "star_powerup.png",
+	"frame": {"x":51,"y":111,"w":8,"h":8},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":8,"h":8},
+	"sourceSize": {"w":8,"h":8}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "prizes.png",
+	"format": "RGBA8888",
+	"size": {"w":85,"h":125},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:324eb9ba54f4cf939106f9b6f94bb3bf:5f447076c2e0aaa10fd6a257bf8ebaea:34e2c6154e70c8c5b476e60d15248a2b$"
+}
+}

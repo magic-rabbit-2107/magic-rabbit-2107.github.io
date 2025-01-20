@@ -1,0 +1,1292 @@
+{"frames": [
+
+{
+	"filename": "fire_ball_01.png",
+	"frame": {"x":234,"y":58,"w":4,"h":4},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":4,"h":4},
+	"sourceSize": {"w":4,"h":4}
+},
+{
+	"filename": "fire_ball_02.png",
+	"frame": {"x":352,"y":55,"w":6,"h":6},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":6,"h":6},
+	"sourceSize": {"w":6,"h":6}
+},
+{
+	"filename": "fire_ball_03.png",
+	"frame": {"x":360,"y":55,"w":6,"h":6},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":6,"h":6},
+	"sourceSize": {"w":6,"h":6}
+},
+{
+	"filename": "fire_mario_hit_01.png",
+	"frame": {"x":239,"y":1,"w":12,"h":17},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":17},
+	"sourceSize": {"w":12,"h":17}
+},
+{
+	"filename": "fire_mario_idle_01.png",
+	"frame": {"x":31,"y":41,"w":12,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":18},
+	"sourceSize": {"w":12,"h":18}
+},
+{
+	"filename": "fire_mario_idle_02.png",
+	"frame": {"x":45,"y":41,"w":12,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":18},
+	"sourceSize": {"w":12,"h":18}
+},
+{
+	"filename": "fire_mario_idle_03.png",
+	"frame": {"x":46,"y":1,"w":12,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":18},
+	"sourceSize": {"w":12,"h":18}
+},
+{
+	"filename": "fire_mario_idle_04.png",
+	"frame": {"x":46,"y":21,"w":12,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":18},
+	"sourceSize": {"w":12,"h":18}
+},
+{
+	"filename": "fire_mario_jump_01.png",
+	"frame": {"x":209,"y":1,"w":13,"h":17},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":17},
+	"sourceSize": {"w":13,"h":17}
+},
+{
+	"filename": "fire_mario_pipe_1.png",
+	"frame": {"x":1,"y":1,"w":13,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":18},
+	"sourceSize": {"w":13,"h":18}
+},
+{
+	"filename": "fire_mario_pipe_2.png",
+	"frame": {"x":1,"y":21,"w":13,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":18},
+	"sourceSize": {"w":13,"h":18}
+},
+{
+	"filename": "fire_mario_pipe_3.png",
+	"frame": {"x":209,"y":20,"w":13,"h":17},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":13,"h":17},
+	"sourceSize": {"w":13,"h":18}
+},
+{
+	"filename": "fire_mario_pipe_4.png",
+	"frame": {"x":251,"y":39,"w":13,"h":16},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":13,"h":16},
+	"sourceSize": {"w":13,"h":18}
+},
+{
+	"filename": "fire_mario_pipe_5.png",
+	"frame": {"x":374,"y":37,"w":13,"h":15},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":3,"w":13,"h":15},
+	"sourceSize": {"w":13,"h":18}
+},
+{
+	"filename": "fire_mario_pipe_6.png",
+	"frame": {"x":405,"y":1,"w":13,"h":14},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":4,"w":13,"h":14},
+	"sourceSize": {"w":13,"h":18}
+},
+{
+	"filename": "fire_mario_pipe_7.png",
+	"frame": {"x":424,"y":17,"w":13,"h":13},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":5,"w":13,"h":13},
+	"sourceSize": {"w":13,"h":18}
+},
+{
+	"filename": "fire_mario_pipe_8.png",
+	"frame": {"x":404,"y":51,"w":13,"h":12},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":13,"h":12},
+	"sourceSize": {"w":13,"h":18}
+},
+{
+	"filename": "fire_mario_pipe_9.png",
+	"frame": {"x":389,"y":52,"w":13,"h":11},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":13,"h":11},
+	"sourceSize": {"w":13,"h":18}
+},
+{
+	"filename": "fire_mario_pipe_10.png",
+	"frame": {"x":448,"y":30,"w":13,"h":10},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":13,"h":10},
+	"sourceSize": {"w":13,"h":18}
+},
+{
+	"filename": "fire_mario_pipe_11.png",
+	"frame": {"x":374,"y":54,"w":13,"h":9},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":9,"w":13,"h":9},
+	"sourceSize": {"w":13,"h":18}
+},
+{
+	"filename": "fire_mario_pipe_12.png",
+	"frame": {"x":316,"y":55,"w":11,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":10,"w":11,"h":8},
+	"sourceSize": {"w":13,"h":18}
+},
+{
+	"filename": "fire_mario_pipe_13.png",
+	"frame": {"x":339,"y":55,"w":11,"h":7},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":11,"w":11,"h":7},
+	"sourceSize": {"w":13,"h":18}
+},
+{
+	"filename": "fire_mario_pipe_14.png",
+	"frame": {"x":254,"y":57,"w":11,"h":6},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":12,"w":11,"h":6},
+	"sourceSize": {"w":13,"h":18}
+},
+{
+	"filename": "fire_mario_pipe_15.png",
+	"frame": {"x":209,"y":58,"w":11,"h":5},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":13,"w":11,"h":5},
+	"sourceSize": {"w":13,"h":18}
+},
+{
+	"filename": "fire_mario_pipe_16.png",
+	"frame": {"x":222,"y":58,"w":10,"h":4},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":14,"w":10,"h":4},
+	"sourceSize": {"w":13,"h":18}
+},
+{
+	"filename": "fire_mario_pipe_17.png",
+	"frame": {"x":244,"y":58,"w":8,"h":3},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":15,"w":8,"h":3},
+	"sourceSize": {"w":13,"h":18}
+},
+{
+	"filename": "fire_mario_pipe_18.png",
+	"frame": {"x":1,"y":61,"w":6,"h":2},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":16,"w":6,"h":2},
+	"sourceSize": {"w":13,"h":18}
+},
+{
+	"filename": "fire_mario_pipe_19.png",
+	"frame": {"x":368,"y":55,"w":3,"h":3},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":3,"h":3},
+	"sourceSize": {"w":13,"h":18}
+},
+{
+	"filename": "fire_mario_pipe_enter_sideways_1.png",
+	"frame": {"x":31,"y":41,"w":12,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":18},
+	"sourceSize": {"w":12,"h":18}
+},
+{
+	"filename": "fire_mario_pipe_enter_sideways_2.png",
+	"frame": {"x":59,"y":41,"w":12,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":18},
+	"sourceSize": {"w":12,"h":18}
+},
+{
+	"filename": "fire_mario_pipe_enter_sideways_3.png",
+	"frame": {"x":158,"y":1,"w":11,"h":18},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":11,"h":18},
+	"sourceSize": {"w":12,"h":18}
+},
+{
+	"filename": "fire_mario_pipe_enter_sideways_4.png",
+	"frame": {"x":171,"y":1,"w":10,"h":18},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":10,"h":18},
+	"sourceSize": {"w":12,"h":18}
+},
+{
+	"filename": "fire_mario_pipe_enter_sideways_5.png",
+	"frame": {"x":171,"y":41,"w":9,"h":18},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":9,"h":18},
+	"sourceSize": {"w":12,"h":18}
+},
+{
+	"filename": "fire_mario_pipe_enter_sideways_6.png",
+	"frame": {"x":183,"y":1,"w":8,"h":18},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":8,"h":18},
+	"sourceSize": {"w":12,"h":18}
+},
+{
+	"filename": "fire_mario_pipe_enter_sideways_7.png",
+	"frame": {"x":193,"y":1,"w":7,"h":18},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":0,"w":7,"h":18},
+	"sourceSize": {"w":12,"h":18}
+},
+{
+	"filename": "fire_mario_pipe_enter_sideways_8.png",
+	"frame": {"x":193,"y":41,"w":6,"h":18},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":0,"w":6,"h":18},
+	"sourceSize": {"w":12,"h":18}
+},
+{
+	"filename": "fire_mario_pipe_enter_sideways_9.png",
+	"frame": {"x":202,"y":1,"w":5,"h":18},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":0,"w":5,"h":18},
+	"sourceSize": {"w":12,"h":18}
+},
+{
+	"filename": "fire_mario_pipe_enter_sideways_10.png",
+	"frame": {"x":239,"y":39,"w":4,"h":17},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":1,"w":4,"h":17},
+	"sourceSize": {"w":12,"h":18}
+},
+{
+	"filename": "fire_mario_pipe_enter_sideways_11.png",
+	"frame": {"x":370,"y":1,"w":3,"h":16},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":2,"w":3,"h":16},
+	"sourceSize": {"w":12,"h":18}
+},
+{
+	"filename": "fire_mario_pipe_enter_sideways_12.png",
+	"frame": {"x":240,"y":58,"w":2,"h":4},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":5,"w":2,"h":4},
+	"sourceSize": {"w":12,"h":18}
+},
+{
+	"filename": "fire_mario_pipe_enter_sideways_13.png",
+	"frame": {"x":368,"y":55,"w":3,"h":3},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":3,"h":3},
+	"sourceSize": {"w":12,"h":18}
+},
+{
+	"filename": "fire_mario_run_01.png",
+	"frame": {"x":60,"y":1,"w":12,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":18},
+	"sourceSize": {"w":12,"h":18}
+},
+{
+	"filename": "fire_mario_run_02.png",
+	"frame": {"x":1,"y":41,"w":13,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":18},
+	"sourceSize": {"w":13,"h":18}
+},
+{
+	"filename": "fire_mario_run_03.png",
+	"frame": {"x":60,"y":21,"w":12,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":18},
+	"sourceSize": {"w":12,"h":18}
+},
+{
+	"filename": "fire_mario_run_04.png",
+	"frame": {"x":73,"y":41,"w":12,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":18},
+	"sourceSize": {"w":12,"h":18}
+},
+{
+	"filename": "fire_mario_run_05.png",
+	"frame": {"x":16,"y":1,"w":13,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":18},
+	"sourceSize": {"w":13,"h":18}
+},
+{
+	"filename": "fire_mario_run_06.png",
+	"frame": {"x":74,"y":1,"w":12,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":18},
+	"sourceSize": {"w":12,"h":18}
+},
+{
+	"filename": "fire_mario_squat_01.png",
+	"frame": {"x":420,"y":1,"w":12,"h":14},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":4,"w":12,"h":14},
+	"sourceSize": {"w":12,"h":18}
+},
+{
+	"filename": "fire_mario_victory_01.png",
+	"frame": {"x":1,"y":1,"w":13,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":18},
+	"sourceSize": {"w":13,"h":18}
+},
+{
+	"filename": "fire_mario_walk_01.png",
+	"frame": {"x":209,"y":39,"w":13,"h":17},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":17},
+	"sourceSize": {"w":13,"h":17}
+},
+{
+	"filename": "fire_mario_walk_02.png",
+	"frame": {"x":74,"y":21,"w":12,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":18},
+	"sourceSize": {"w":12,"h":18}
+},
+{
+	"filename": "fire_mario_walk_03.png",
+	"frame": {"x":87,"y":41,"w":12,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":18},
+	"sourceSize": {"w":12,"h":18}
+},
+{
+	"filename": "large_mario_climb_01.png",
+	"frame": {"x":88,"y":1,"w":12,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":18},
+	"sourceSize": {"w":12,"h":18}
+},
+{
+	"filename": "large_mario_climb_02.png",
+	"frame": {"x":88,"y":21,"w":12,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":18},
+	"sourceSize": {"w":12,"h":18}
+},
+{
+	"filename": "large_mario_climb_03.png",
+	"frame": {"x":101,"y":41,"w":12,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":18},
+	"sourceSize": {"w":12,"h":18}
+},
+{
+	"filename": "large_mario_climb_04.png",
+	"frame": {"x":102,"y":1,"w":12,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":18},
+	"sourceSize": {"w":12,"h":18}
+},
+{
+	"filename": "large_mario_hit_01.png",
+	"frame": {"x":239,"y":20,"w":12,"h":17},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":17},
+	"sourceSize": {"w":12,"h":17}
+},
+{
+	"filename": "large_mario_idle_01.png",
+	"frame": {"x":102,"y":21,"w":12,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":18},
+	"sourceSize": {"w":12,"h":18}
+},
+{
+	"filename": "large_mario_idle_02.png",
+	"frame": {"x":115,"y":41,"w":12,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":18},
+	"sourceSize": {"w":12,"h":18}
+},
+{
+	"filename": "large_mario_idle_03.png",
+	"frame": {"x":116,"y":1,"w":12,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":18},
+	"sourceSize": {"w":12,"h":18}
+},
+{
+	"filename": "large_mario_idle_04.png",
+	"frame": {"x":116,"y":21,"w":12,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":18},
+	"sourceSize": {"w":12,"h":18}
+},
+{
+	"filename": "large_mario_jump_01.png",
+	"frame": {"x":224,"y":1,"w":13,"h":17},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":17},
+	"sourceSize": {"w":13,"h":17}
+},
+{
+	"filename": "large_mario_pipe_1.png",
+	"frame": {"x":16,"y":21,"w":13,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":18},
+	"sourceSize": {"w":13,"h":18}
+},
+{
+	"filename": "large_mario_pipe_2.png",
+	"frame": {"x":16,"y":41,"w":13,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":18},
+	"sourceSize": {"w":13,"h":18}
+},
+{
+	"filename": "large_mario_pipe_3.png",
+	"frame": {"x":224,"y":20,"w":13,"h":17},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":13,"h":17},
+	"sourceSize": {"w":13,"h":18}
+},
+{
+	"filename": "large_mario_pipe_4.png",
+	"frame": {"x":253,"y":1,"w":13,"h":16},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":13,"h":16},
+	"sourceSize": {"w":13,"h":18}
+},
+{
+	"filename": "large_mario_pipe_5.png",
+	"frame": {"x":375,"y":1,"w":13,"h":15},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":3,"w":13,"h":15},
+	"sourceSize": {"w":13,"h":18}
+},
+{
+	"filename": "large_mario_pipe_6.png",
+	"frame": {"x":404,"y":35,"w":13,"h":14},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":4,"w":13,"h":14},
+	"sourceSize": {"w":13,"h":18}
+},
+{
+	"filename": "large_mario_pipe_7.png",
+	"frame": {"x":434,"y":1,"w":13,"h":13},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":5,"w":13,"h":13},
+	"sourceSize": {"w":13,"h":18}
+},
+{
+	"filename": "large_mario_pipe_8.png",
+	"frame": {"x":389,"y":52,"w":13,"h":11},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":13,"h":11},
+	"sourceSize": {"w":13,"h":18}
+},
+{
+	"filename": "large_mario_pipe_9.png",
+	"frame": {"x":448,"y":30,"w":13,"h":10},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":13,"h":10},
+	"sourceSize": {"w":13,"h":18}
+},
+{
+	"filename": "large_mario_pipe_10.png",
+	"frame": {"x":448,"y":30,"w":13,"h":10},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":13,"h":10},
+	"sourceSize": {"w":13,"h":18}
+},
+{
+	"filename": "large_mario_pipe_11.png",
+	"frame": {"x":374,"y":54,"w":13,"h":9},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":9,"w":13,"h":9},
+	"sourceSize": {"w":13,"h":18}
+},
+{
+	"filename": "large_mario_pipe_12.png",
+	"frame": {"x":316,"y":55,"w":11,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":10,"w":11,"h":8},
+	"sourceSize": {"w":13,"h":18}
+},
+{
+	"filename": "large_mario_pipe_13.png",
+	"frame": {"x":339,"y":55,"w":11,"h":7},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":11,"w":11,"h":7},
+	"sourceSize": {"w":13,"h":18}
+},
+{
+	"filename": "large_mario_pipe_14.png",
+	"frame": {"x":254,"y":57,"w":11,"h":6},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":12,"w":11,"h":6},
+	"sourceSize": {"w":13,"h":18}
+},
+{
+	"filename": "large_mario_pipe_15.png",
+	"frame": {"x":209,"y":58,"w":11,"h":5},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":13,"w":11,"h":5},
+	"sourceSize": {"w":13,"h":18}
+},
+{
+	"filename": "large_mario_pipe_16.png",
+	"frame": {"x":222,"y":58,"w":10,"h":4},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":14,"w":10,"h":4},
+	"sourceSize": {"w":13,"h":18}
+},
+{
+	"filename": "large_mario_pipe_17.png",
+	"frame": {"x":244,"y":58,"w":8,"h":3},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":15,"w":8,"h":3},
+	"sourceSize": {"w":13,"h":18}
+},
+{
+	"filename": "large_mario_pipe_18.png",
+	"frame": {"x":1,"y":61,"w":6,"h":2},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":16,"w":6,"h":2},
+	"sourceSize": {"w":13,"h":18}
+},
+{
+	"filename": "large_mario_pipe_19.png",
+	"frame": {"x":368,"y":55,"w":3,"h":3},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":3,"h":3},
+	"sourceSize": {"w":13,"h":18}
+},
+{
+	"filename": "large_mario_pipe_enter_sideways_1.png",
+	"frame": {"x":102,"y":21,"w":12,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":18},
+	"sourceSize": {"w":12,"h":18}
+},
+{
+	"filename": "large_mario_pipe_enter_sideways_2.png",
+	"frame": {"x":129,"y":41,"w":12,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":18},
+	"sourceSize": {"w":12,"h":18}
+},
+{
+	"filename": "large_mario_pipe_enter_sideways_3.png",
+	"frame": {"x":158,"y":21,"w":11,"h":18},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":11,"h":18},
+	"sourceSize": {"w":12,"h":18}
+},
+{
+	"filename": "large_mario_pipe_enter_sideways_4.png",
+	"frame": {"x":171,"y":21,"w":10,"h":18},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":10,"h":18},
+	"sourceSize": {"w":12,"h":18}
+},
+{
+	"filename": "large_mario_pipe_enter_sideways_5.png",
+	"frame": {"x":182,"y":41,"w":9,"h":18},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":9,"h":18},
+	"sourceSize": {"w":12,"h":18}
+},
+{
+	"filename": "large_mario_pipe_enter_sideways_6.png",
+	"frame": {"x":183,"y":21,"w":8,"h":18},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":8,"h":18},
+	"sourceSize": {"w":12,"h":18}
+},
+{
+	"filename": "large_mario_pipe_enter_sideways_7.png",
+	"frame": {"x":193,"y":21,"w":7,"h":18},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":0,"w":7,"h":18},
+	"sourceSize": {"w":12,"h":18}
+},
+{
+	"filename": "large_mario_pipe_enter_sideways_8.png",
+	"frame": {"x":201,"y":41,"w":6,"h":18},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":0,"w":6,"h":18},
+	"sourceSize": {"w":12,"h":18}
+},
+{
+	"filename": "large_mario_pipe_enter_sideways_9.png",
+	"frame": {"x":202,"y":21,"w":5,"h":18},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":0,"w":5,"h":18},
+	"sourceSize": {"w":12,"h":18}
+},
+{
+	"filename": "large_mario_pipe_enter_sideways_10.png",
+	"frame": {"x":245,"y":39,"w":4,"h":17},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":1,"w":4,"h":17},
+	"sourceSize": {"w":12,"h":18}
+},
+{
+	"filename": "large_mario_pipe_enter_sideways_11.png",
+	"frame": {"x":370,"y":19,"w":3,"h":16},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":2,"w":3,"h":16},
+	"sourceSize": {"w":12,"h":18}
+},
+{
+	"filename": "large_mario_pipe_enter_sideways_12.png",
+	"frame": {"x":240,"y":58,"w":2,"h":4},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":5,"w":2,"h":4},
+	"sourceSize": {"w":12,"h":18}
+},
+{
+	"filename": "large_mario_pipe_enter_sideways_13.png",
+	"frame": {"x":368,"y":55,"w":3,"h":3},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":3,"h":3},
+	"sourceSize": {"w":12,"h":18}
+},
+{
+	"filename": "large_mario_run_01.png",
+	"frame": {"x":130,"y":1,"w":12,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":18},
+	"sourceSize": {"w":12,"h":18}
+},
+{
+	"filename": "large_mario_run_02.png",
+	"frame": {"x":31,"y":1,"w":13,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":18},
+	"sourceSize": {"w":13,"h":18}
+},
+{
+	"filename": "large_mario_run_03.png",
+	"frame": {"x":130,"y":21,"w":12,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":18},
+	"sourceSize": {"w":12,"h":18}
+},
+{
+	"filename": "large_mario_run_04.png",
+	"frame": {"x":143,"y":41,"w":12,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":18},
+	"sourceSize": {"w":12,"h":18}
+},
+{
+	"filename": "large_mario_run_05.png",
+	"frame": {"x":31,"y":21,"w":13,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":18},
+	"sourceSize": {"w":13,"h":18}
+},
+{
+	"filename": "large_mario_run_06.png",
+	"frame": {"x":144,"y":1,"w":12,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":18},
+	"sourceSize": {"w":12,"h":18}
+},
+{
+	"filename": "large_mario_squat_01.png",
+	"frame": {"x":419,"y":33,"w":12,"h":14},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":4,"w":12,"h":14},
+	"sourceSize": {"w":12,"h":18}
+},
+{
+	"filename": "large_mario_victory_01.png",
+	"frame": {"x":16,"y":21,"w":13,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":18},
+	"sourceSize": {"w":13,"h":18}
+},
+{
+	"filename": "large_mario_walk_01.png",
+	"frame": {"x":224,"y":39,"w":13,"h":17},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":17},
+	"sourceSize": {"w":13,"h":17}
+},
+{
+	"filename": "large_mario_walk_02.png",
+	"frame": {"x":144,"y":21,"w":12,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":18},
+	"sourceSize": {"w":12,"h":18}
+},
+{
+	"filename": "large_mario_walk_03.png",
+	"frame": {"x":157,"y":41,"w":12,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":18},
+	"sourceSize": {"w":12,"h":18}
+},
+{
+	"filename": "mario_ui.png",
+	"frame": {"x":267,"y":55,"w":32,"h":8},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":8},
+	"sourceSize": {"w":32,"h":8}
+},
+{
+	"filename": "playerCollisionBlock.png",
+	"frame": {"x":351,"y":19,"w":8,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":8,"h":16},
+	"sourceSize": {"w":8,"h":16}
+},
+{
+	"filename": "playerTopCollisionBlock.jpg",
+	"frame": {"x":329,"y":55,"w":8,"h":8},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":8,"h":8},
+	"sourceSize": {"w":8,"h":8}
+},
+{
+	"filename": "small_mario_climb_01.png",
+	"frame": {"x":268,"y":19,"w":12,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":16},
+	"sourceSize": {"w":12,"h":16}
+},
+{
+	"filename": "small_mario_climb_02.png",
+	"frame": {"x":281,"y":37,"w":12,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":16},
+	"sourceSize": {"w":12,"h":16}
+},
+{
+	"filename": "small_mario_climb_03.png",
+	"frame": {"x":282,"y":19,"w":12,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":16},
+	"sourceSize": {"w":12,"h":16}
+},
+{
+	"filename": "small_mario_climb_04.png",
+	"frame": {"x":295,"y":37,"w":12,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":16},
+	"sourceSize": {"w":12,"h":16}
+},
+{
+	"filename": "small_mario_hit_01.png",
+	"frame": {"x":390,"y":18,"w":12,"h":15},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":15},
+	"sourceSize": {"w":12,"h":15}
+},
+{
+	"filename": "small_mario_idle_01.png",
+	"frame": {"x":283,"y":1,"w":12,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":16},
+	"sourceSize": {"w":12,"h":16}
+},
+{
+	"filename": "small_mario_idle_02.png",
+	"frame": {"x":296,"y":19,"w":12,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":16},
+	"sourceSize": {"w":12,"h":16}
+},
+{
+	"filename": "small_mario_idle_03.png",
+	"frame": {"x":309,"y":37,"w":12,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":16},
+	"sourceSize": {"w":12,"h":16}
+},
+{
+	"filename": "small_mario_idle_04.png",
+	"frame": {"x":297,"y":1,"w":12,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":16},
+	"sourceSize": {"w":12,"h":16}
+},
+{
+	"filename": "small_mario_jump_01.png",
+	"frame": {"x":375,"y":18,"w":13,"h":15},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":15},
+	"sourceSize": {"w":13,"h":15}
+},
+{
+	"filename": "small_mario_pipe_1.png",
+	"frame": {"x":253,"y":19,"w":13,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":16},
+	"sourceSize": {"w":13,"h":16}
+},
+{
+	"filename": "small_mario_pipe_2.png",
+	"frame": {"x":266,"y":37,"w":13,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":16},
+	"sourceSize": {"w":13,"h":16}
+},
+{
+	"filename": "small_mario_pipe_3.png",
+	"frame": {"x":389,"y":35,"w":13,"h":15},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":13,"h":15},
+	"sourceSize": {"w":13,"h":16}
+},
+{
+	"filename": "small_mario_pipe_4.png",
+	"frame": {"x":389,"y":35,"w":13,"h":15},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":13,"h":15},
+	"sourceSize": {"w":13,"h":16}
+},
+{
+	"filename": "small_mario_pipe_5.png",
+	"frame": {"x":409,"y":17,"w":13,"h":14},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":13,"h":14},
+	"sourceSize": {"w":13,"h":16}
+},
+{
+	"filename": "small_mario_pipe_6.png",
+	"frame": {"x":419,"y":49,"w":13,"h":13},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":3,"w":13,"h":13},
+	"sourceSize": {"w":13,"h":16}
+},
+{
+	"filename": "small_mario_pipe_7.png",
+	"frame": {"x":433,"y":32,"w":13,"h":12},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":4,"w":13,"h":12},
+	"sourceSize": {"w":13,"h":16}
+},
+{
+	"filename": "small_mario_pipe_8.png",
+	"frame": {"x":434,"y":46,"w":13,"h":11},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":5,"w":13,"h":11},
+	"sourceSize": {"w":13,"h":16}
+},
+{
+	"filename": "small_mario_pipe_9.png",
+	"frame": {"x":449,"y":42,"w":13,"h":10},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":13,"h":10},
+	"sourceSize": {"w":13,"h":16}
+},
+{
+	"filename": "small_mario_pipe_10.png",
+	"frame": {"x":449,"y":54,"w":13,"h":9},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":13,"h":9},
+	"sourceSize": {"w":13,"h":16}
+},
+{
+	"filename": "small_mario_pipe_11.png",
+	"frame": {"x":301,"y":55,"w":13,"h":8},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":13,"h":8},
+	"sourceSize": {"w":13,"h":16}
+},
+{
+	"filename": "small_mario_pipe_12.png",
+	"frame": {"x":339,"y":55,"w":11,"h":7},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":9,"w":11,"h":7},
+	"sourceSize": {"w":13,"h":16}
+},
+{
+	"filename": "small_mario_pipe_13.png",
+	"frame": {"x":254,"y":57,"w":11,"h":6},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":10,"w":11,"h":6},
+	"sourceSize": {"w":13,"h":16}
+},
+{
+	"filename": "small_mario_pipe_14.png",
+	"frame": {"x":209,"y":58,"w":11,"h":5},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":11,"w":11,"h":5},
+	"sourceSize": {"w":13,"h":16}
+},
+{
+	"filename": "small_mario_pipe_15.png",
+	"frame": {"x":222,"y":58,"w":10,"h":4},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":12,"w":10,"h":4},
+	"sourceSize": {"w":13,"h":16}
+},
+{
+	"filename": "small_mario_pipe_16.png",
+	"frame": {"x":244,"y":58,"w":8,"h":3},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":13,"w":8,"h":3},
+	"sourceSize": {"w":13,"h":16}
+},
+{
+	"filename": "small_mario_pipe_17.png",
+	"frame": {"x":1,"y":61,"w":6,"h":2},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":14,"w":6,"h":2},
+	"sourceSize": {"w":13,"h":16}
+},
+{
+	"filename": "small_mario_pipe_18.png",
+	"frame": {"x":368,"y":55,"w":3,"h":3},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":3,"h":3},
+	"sourceSize": {"w":13,"h":16}
+},
+{
+	"filename": "small_mario_pipe_enter_sideways_1.png",
+	"frame": {"x":283,"y":1,"w":12,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":16},
+	"sourceSize": {"w":12,"h":16}
+},
+{
+	"filename": "small_mario_pipe_enter_sideways_2.png",
+	"frame": {"x":129,"y":41,"w":12,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":18},
+	"sourceSize": {"w":12,"h":18}
+},
+{
+	"filename": "small_mario_pipe_enter_sideways_3.png",
+	"frame": {"x":338,"y":19,"w":11,"h":16},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":11,"h":16},
+	"sourceSize": {"w":12,"h":16}
+},
+{
+	"filename": "small_mario_pipe_enter_sideways_4.png",
+	"frame": {"x":339,"y":1,"w":10,"h":16},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":10,"h":16},
+	"sourceSize": {"w":12,"h":16}
+},
+{
+	"filename": "small_mario_pipe_enter_sideways_5.png",
+	"frame": {"x":351,"y":1,"w":9,"h":16},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":9,"h":16},
+	"sourceSize": {"w":12,"h":16}
+},
+{
+	"filename": "small_mario_pipe_enter_sideways_6.png",
+	"frame": {"x":351,"y":37,"w":8,"h":16},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":8,"h":16},
+	"sourceSize": {"w":12,"h":16}
+},
+{
+	"filename": "small_mario_pipe_enter_sideways_7.png",
+	"frame": {"x":361,"y":19,"w":7,"h":16},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":0,"w":7,"h":16},
+	"sourceSize": {"w":12,"h":16}
+},
+{
+	"filename": "small_mario_pipe_enter_sideways_8.png",
+	"frame": {"x":362,"y":1,"w":6,"h":16},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":0,"w":6,"h":16},
+	"sourceSize": {"w":12,"h":16}
+},
+{
+	"filename": "small_mario_pipe_enter_sideways_9.png",
+	"frame": {"x":361,"y":37,"w":5,"h":16},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":0,"w":5,"h":16},
+	"sourceSize": {"w":12,"h":16}
+},
+{
+	"filename": "small_mario_pipe_enter_sideways_10.png",
+	"frame": {"x":361,"y":37,"w":5,"h":16},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":0,"w":5,"h":16},
+	"sourceSize": {"w":12,"h":16}
+},
+{
+	"filename": "small_mario_pipe_enter_sideways_11.png",
+	"frame": {"x":368,"y":37,"w":4,"h":16},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":0,"w":4,"h":16},
+	"sourceSize": {"w":12,"h":16}
+},
+{
+	"filename": "small_mario_pipe_enter_sideways_12.png",
+	"frame": {"x":404,"y":18,"w":3,"h":15},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":1,"w":3,"h":15},
+	"sourceSize": {"w":12,"h":16}
+},
+{
+	"filename": "small_mario_pipe_enter_sideways_13.png",
+	"frame": {"x":449,"y":1,"w":2,"h":12},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":4,"w":2,"h":12},
+	"sourceSize": {"w":12,"h":16}
+},
+{
+	"filename": "small_mario_pipe_enter_sideways_14.png",
+	"frame": {"x":368,"y":55,"w":3,"h":3},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":3,"h":3},
+	"sourceSize": {"w":12,"h":16}
+},
+{
+	"filename": "small_mario_run_01.png",
+	"frame": {"x":310,"y":19,"w":12,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":16},
+	"sourceSize": {"w":12,"h":16}
+},
+{
+	"filename": "small_mario_run_02.png",
+	"frame": {"x":268,"y":1,"w":13,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":16},
+	"sourceSize": {"w":13,"h":16}
+},
+{
+	"filename": "small_mario_run_03.png",
+	"frame": {"x":323,"y":37,"w":12,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":16},
+	"sourceSize": {"w":12,"h":16}
+},
+{
+	"filename": "small_mario_run_04.png",
+	"frame": {"x":311,"y":1,"w":12,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":16},
+	"sourceSize": {"w":12,"h":16}
+},
+{
+	"filename": "small_mario_run_05.png",
+	"frame": {"x":324,"y":19,"w":12,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":16},
+	"sourceSize": {"w":12,"h":16}
+},
+{
+	"filename": "small_mario_squat_01.png",
+	"frame": {"x":439,"y":16,"w":12,"h":12},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":4,"w":12,"h":12},
+	"sourceSize": {"w":12,"h":16}
+},
+{
+	"filename": "small_mario_victory_01.png",
+	"frame": {"x":253,"y":19,"w":13,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":16},
+	"sourceSize": {"w":13,"h":16}
+},
+{
+	"filename": "small_mario_walk_01.png",
+	"frame": {"x":390,"y":1,"w":13,"h":15},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":15},
+	"sourceSize": {"w":13,"h":15}
+},
+{
+	"filename": "small_mario_walk_02.png",
+	"frame": {"x":337,"y":37,"w":12,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":16},
+	"sourceSize": {"w":12,"h":16}
+},
+{
+	"filename": "small_mario_walk_03.png",
+	"frame": {"x":325,"y":1,"w":12,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":16},
+	"sourceSize": {"w":12,"h":16}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "mario.png",
+	"format": "RGBA8888",
+	"size": {"w":463,"h":64},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:b63267498bfb3bb3d6a9f5d423cf727d:32483ae89d82463b7392e2bfc5f84c2f:049a1e10ddf44989e4af4e84fecd01e8$"
+}
+}

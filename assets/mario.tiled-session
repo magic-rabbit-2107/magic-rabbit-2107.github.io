@@ -1,0 +1,164 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "level_01_02_00.tmx",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "#Decorations": {
+            "scaleInDock": 1
+        },
+        "#Ground-and-Platforms": {
+            "scaleInDock": 1
+        },
+        "Decorations.tsx": {
+            "scaleInDock": 1
+        },
+        "Ground-and-Platforms.tsx": {
+            "scaleInDock": 1
+        },
+        "Interactable.tsx": {
+            "scaleInDock": 1
+        },
+        "Parallax.tsx": {
+            "scaleInDock": 1
+        },
+        "game.tmx": {
+            "scale": 2.343017456359102,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 90.26821350646583,
+                "y": 230.25863445266353
+            }
+        },
+        "game.tmx#Ground-and-Platforms": {
+            "scaleInDock": 1
+        },
+        "game.tmx#Interactable": {
+            "scaleInDock": 1
+        },
+        "game.tmx#Liquids": {
+            "scaleInDock": 1
+        },
+        "level_01.tmx": {
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 126.25,
+                "y": 43.5
+            }
+        },
+        "level_01.tmx#Ground-and-Platforms": {
+            "scaleInDock": 1
+        },
+        "level_01_01.tmx": {
+            "expandedObjectLayers": [
+                9,
+                2,
+                18,
+                20
+            ],
+            "scale": 5.5,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": 899.909090909091,
+                "y": 60
+            }
+        },
+        "level_01_01.tmx#Decorations": {
+            "scaleInDock": 1
+        },
+        "level_01_01.tmx#Ground-and-Platforms": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "level_01_01.tmx#Interactable": {
+            "scaleInDock": 5.5
+        },
+        "level_01_01.tmx#Parallax": {
+            "scaleInDock": 1
+        },
+        "level_01_01_01.tmx": {
+            "expandedObjectLayers": [
+                4,
+                11
+            ],
+            "scale": 3,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 64.16666666666666,
+                "y": 57.66666666666667
+            }
+        },
+        "level_01_01_01.tmx#Decorations": {
+            "scaleInDock": 1
+        },
+        "level_01_01_01.tmx#Ground-and-Platforms": {
+            "scaleInDock": 1
+        },
+        "level_01_01_01.tmx#Interactable": {
+            "scaleInDock": 1
+        },
+        "level_01_01_01.tmx#Parallax": {
+            "scaleInDock": 1
+        },
+        "level_01_02_00.tmx": {
+            "scale": 4,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 53.5,
+                "y": 86.125
+            }
+        },
+        "level_01_02_00.tmx#Decorations": {
+            "scaleInDock": 1
+        },
+        "level_01_02_00.tmx#Ground-and-Platforms": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "level_01_02_00.tmx#Interactable": {
+            "scaleInDock": 1
+        },
+        "level_01_02_00.tmx#Parallax": {
+            "scaleInDock": 1
+        }
+    },
+    "last.exportedFilePath": "/Users/danielmcneany/Documents/phaser projects/mario_clone/public/assets",
+    "last.externalTilesetPath": "/Users/danielmcneany/Documents/phaser projects/mario_clone/public/assets",
+    "last.imagePath": "/Users/danielmcneany/Documents/phaser projects/mario_clone/public/assets",
+    "map.fixedSize": true,
+    "map.height": 16,
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 8,
+    "map.tileWidth": 8,
+    "map.width": 225,
+    "openFiles": [
+        "level_01_01_01.tmx",
+        "level_01_01.tmx",
+        "level_01_02_00.tmx"
+    ],
+    "project": "mario.tiled-project",
+    "property.type": "string",
+    "recentFiles": [
+        "level_01_01_01.tmx",
+        "level_01_01.tmx",
+        "level_01_02_00.tmx",
+        "game.tmx",
+        "level_01.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
+    "tileset.tileSize": {
+        "height": 8,
+        "width": 8
+    }
+}

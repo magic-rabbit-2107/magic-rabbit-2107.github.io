@@ -1,0 +1,52 @@
+{"frames": [
+
+{
+	"filename": "goal_post_checkpoint.png",
+	"frame": {"x":1,"y":1,"w":13,"h":4},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":4},
+	"sourceSize": {"w":13,"h":4}
+},
+{
+	"filename": "large_goal_post_01.png",
+	"frame": {"x":1,"y":7,"w":6,"h":88},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":6,"h":88},
+	"sourceSize": {"w":6,"h":88}
+},
+{
+	"filename": "large_goal_post_02.png",
+	"frame": {"x":9,"y":7,"w":6,"h":88},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":6,"h":88},
+	"sourceSize": {"w":6,"h":88}
+},
+{
+	"filename": "large_goal_post_03.png",
+	"frame": {"x":1,"y":97,"w":6,"h":88},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":6,"h":88},
+	"sourceSize": {"w":6,"h":88}
+},
+{
+	"filename": "large_goal_post_04.png",
+	"frame": {"x":9,"y":97,"w":6,"h":88},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":6,"h":88},
+	"sourceSize": {"w":6,"h":88}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "goal_post.png",
+	"format": "RGBA8888",
+	"size": {"w":16,"h":186},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:e0d6642720f31afac62e13b163749583:8bf9b102e503362abe0d1000552f740b:512d3b05931f86a1886b960777ea7b1c$"
+}
+}
